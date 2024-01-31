@@ -1,6 +1,6 @@
 const { response } = require("express");
 
-const mahasiswaNim = '1102020'; // Ganti dengan NIM yang akan di edit
+const mahasiswaNim = '20220040147'; // Ganti dengan NIM yang akan di edit
 const updateData = {
     nama: 'Fadya',
     gender: 'L',
